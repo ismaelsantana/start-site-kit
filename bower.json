@@ -1,0 +1,21 @@
+{
+  "name": "start-site-statico",
+  "authors": [
+    "Ismael Santana <ismaelsantana@me.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
