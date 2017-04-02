@@ -6,7 +6,7 @@
   "description": "",
   "main": "",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/ismaelsantana/start-site-kit",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,7 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "*",
     "bootstrap-sass": "^3.3.7"
   }
 }
